@@ -57,6 +57,8 @@ agent_executor = AgentExecutor(agent=agent,
                                verbose=True)
 
 # 执行AgentExecutor
-agent_executor.invoke({"input": 
+result = agent_executor.invoke({"input": 
                        """What is the price of bitcoin now?\n
                        What is the price if it raise 5%"""})
+
+print(result['output'])

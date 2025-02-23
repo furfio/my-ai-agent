@@ -2,12 +2,17 @@
 from dotenv import load_dotenv
 load_dotenv()  
 
-from openai import OpenAI
-# 初始化客户端
-client = OpenAI()
+# from openai import OpenAI
+# # 初始化客户端
+# client = OpenAI()
+
+ # Add Azure OpenAI package
+from openai import AzureOpenAI
+
+client = AzureOpenAI()
 
 # 检索您之前创建的Assistant
-assistant_id = "asst_pF2pMtIHOL4CpXpyUdHkoKG3" # 你自己的助手ID
+assistant_id = "asst_DnN3n7UCKaizntqCLYv39YYF" # 你自己的助手ID
 # thread_id = 'thread_ZBhfduW0rklxu120EnIH0QZT'
 
 # 创建一个新的Thread
