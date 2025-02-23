@@ -2,12 +2,17 @@
 from dotenv import load_dotenv
 load_dotenv()  
 
-from openai import OpenAI
-# 初始化客户端
-client = OpenAI()
+# from openai import OpenAI
+# # # 初始化客户端
+# client = OpenAI()
+
+ # Add Azure OpenAI package
+from openai import AzureOpenAI
+
+client = AzureOpenAI()
 
 # 检索您之前创建的Assistant
-assistant_id = "asst_pF2pMtIHOL4CpXpyUdHkoKG3" # 你自己的助手ID
+assistant_id = "asst_DnN3n7UCKaizntqCLYv39YYF" # 你自己的助手ID
 # thread_id = 'thread_ZBhfduW0rklxu120EnIH0QZT'
 
 # 创建一个新的Thread
@@ -20,7 +25,7 @@ message = client.beta.threads.messages.create(
     thread_id=thread_id,
     # thread_id='thread_xSyXlruUzMIW1zD8rQUP3aFp',
     role="user",
-    content="快安慰一下伤心的小雪！"
+    content="小雪是我的朋友，她很开心！"
 )
 print(message)
 
@@ -105,8 +110,11 @@ arguments_dict = json.loads(arguments)
 name = arguments_dict['name']
 mood = arguments_dict['mood']
 
+print(name)
+print(mood)
+
 # 调用函数
-encouragement_message = get_encouragement(name, mood)
+encouragement_message = get_encouragement(name = name, mood = mood)
 
 # 打印结果以进行验证
 print(encouragement_message)
