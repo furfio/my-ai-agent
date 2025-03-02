@@ -1,0 +1,209 @@
+[
+    {
+        "internalId": "80a77e0a-c1fa-468a-ba29-620c78299433",
+        "providerName": "Globetouch (Netherlands)",
+        "asn": "61262",
+        "emails": ["stephen.dalmeida@globetouch.com"],
+        "newProviderName": "Airlinq",
+        "isNameChanged": true,
+        "finalName": "Airlinq"
+    },
+    {
+        "internalId": "a7ee4614-28e2-4abb-8f67-529c834c3c5e",
+        "providerName": "FOP Chumakova Olena Leonidivna",
+        "asn": "205513",
+        "emails": ["abuse@foryou.net.ua"],
+        "newProviderName": "ForYouNet",
+        "isNameChanged": false,
+        "finalName": "FOP Chumakova Olena Leonidivna"
+    },
+    {
+        "internalId": "8e771744-05d1-48e3-918b-df24a81cd4a0",
+        "providerName": "PCCW Global",
+        "asn": "7262",
+        "emails": [
+            "sbalon@consoleconnect.com",
+            "abuse.ops@pccwglobal.com",
+            "pcaci@consoleconnect.com",
+            "sajwani@consoleconnect.com",
+            "rwhitney@pccwglobal.com",
+            "abuse@pccwglobal.com",
+            "rwhitney@consoleconnect.com",
+            "mmarzetti@consoleconnect.com",
+            "wgrassot@consoleconnect.com",
+            "usnoc@pccwglobal.com"
+        ],
+        "newProviderName": "PCCW Global",
+        "isNameChanged": false,
+        "finalName": "PCCW Global"
+    },
+    {
+        "internalId": "46481d7f-7a8f-4236-80c4-fee32c02200b",
+        "providerName": "OWENTIS",
+        "asn": "39444",
+        "emails": ["support@owentis.com"],
+        "newProviderName": "Ocentis",
+        "isNameChanged": true,
+        "finalName": "Ocentis"
+    },
+    {
+        "internalId": "be60d160-6b6d-4cc0-8d2b-e0af0df3f4a3",
+        "providerName": "Telenet",
+        "asn": "24589",
+        "emails": ["noc@telenet.lv"],
+        "newProviderName": "Telenet",
+        "isNameChanged": false,
+        "finalName": "Telenet"
+    },
+    {
+        "internalId": "000ea7b1-76d7-4c26-aaa3-ddf895c88db8",
+        "providerName": "Kinema da Ilha Informtica e Tecnologia Ltda.",
+        "asn": "264523",
+        "emails": ["admin@pig.com.br"],
+        "newProviderName": "PIG Provedor",
+        "isNameChanged": true,
+        "finalName": "PIG Provedor"
+    },
+    {
+        "internalId": "cd303a51-8d3f-4200-8b13-71ddb96e869d",
+        "providerName": "Business Network",
+        "asn": "31345",
+        "emails": ["ripe@bn.by"],
+        "newProviderName": "Деловая сеть",
+        "isNameChanged": true,
+        "finalName": "Деловая сеть"
+    },
+    {
+        "internalId": "c7e050fa-c749-4089-9ffd-a80dc1605e12",
+        "providerName": "Mississippi, Department of Information Technology Services (ITS)",
+        "asn": "7086",
+        "emails": [
+            "cam.proctor@its.state.ms.us",
+            "abuse@its.state.ms.us",
+            "cam.proctor@its.ms.gov"
+        ],
+        "newProviderName": "Mississippi Department of Information Technology Services",
+        "isNameChanged": false,
+        "finalName": "Mississippi, Department of Information Technology Services (ITS)"
+    },
+    {
+        "internalId": "ef881906-6478-4cc8-a1b7-8b7069a7dc2d",
+        "providerName": "Olathe Public Schools USD 233",
+        "asn": "393883",
+        "emails": [
+            "sheridan@olatheschools.org",
+            "jdrosa@olatheschools.org",
+            "abuse@olatheschools.org"
+        ],
+        "newProviderName": "Olathe Public Schools",
+        "isNameChanged": false,
+        "finalName": "Olathe Public Schools USD 233"
+    },
+    {
+        "internalId": "b5595970-a51a-4200-ab08-078ea8a3e560",
+        "providerName": "Seech-Infocom",
+        "asn": "43022",
+        "emails": ["zap.abuse@infocom.ua"],
+        "newProviderName": "Інфоком",
+        "isNameChanged": true,
+        "finalName": "Інфоком"
+    },
+    {
+        "internalId": "f1f60605-9225-46e8-8f74-805e9e555763",
+        "providerName": "Headquarters, USAISC",
+        "asn": "1493",
+        "emails": ["disa.columbus.ns.mbx.arin-registrations@mail.mil"],
+        "newProviderName": "U.S. Department of Defense",
+        "isNameChanged": true,
+        "finalName": "U.S. Department of Defense"
+    },
+    {
+        "internalId": "205953a5-474b-4ff8-8b6f-058cec447ce6",
+        "providerName": "Hy-Vee",
+        "asn": "397782",
+        "emails": ["bawright@hy-vee.com"],
+        "newProviderName": "Hy-Vee, Inc.",
+        "isNameChanged": false,
+        "finalName": "Hy-Vee"
+    },
+    {
+        "internalId": "62815526-a6f6-48d9-8d2e-3b48e3d65ff4",
+        "providerName": "Pontifícia Universidade Católica do Rio Grande do Sul",
+        "asn": "28623",
+        "emails": ["security@pucrs.br"],
+        "newProviderName": "Pontifícia Universidade Católica do Rio Grande do Sul",
+        "isNameChanged": false,
+        "finalName": "Pontifícia Universidade Católica do Rio Grande do Sul"
+    },
+    {
+        "internalId": "12656166-bd61-4ad1-bb3b-8336cd1350a7",
+        "providerName": "Powszechna Agencja Informacyjna",
+        "asn": "8798",
+        "emails": ["abuse@pagi.pl"],
+        "newProviderName": "Powszechna Agencja Informacyjna S.A.",
+        "isNameChanged": false,
+        "finalName": "Powszechna Agencja Informacyjna"
+    },
+    {
+        "internalId": "dc07e4d7-07ce-4358-b801-001c1c404a91",
+        "providerName": "RALUEL COMERCIO LTDA ME",
+        "asn": "61918",
+        "emails": ["registro@prata.net.br"],
+        "newProviderName": "Pratanet",
+        "isNameChanged": false,
+        "finalName": "RALUEL COMERCIO LTDA ME"
+    },
+    {
+        "internalId": "ef5848b4-5a7e-4fa1-b45f-f676ec573e2f",
+        "providerName": "EXTREMEnA DE COMUNICACIONES POR CABLE SL",
+        "asn": "56571",
+        "emails": ["noc@htelecom.es"],
+        "newProviderName": "Hispánica de Telecomunicaciones y Servicios Integrales",
+        "isNameChanged": true,
+        "finalName": "Hispánica de Telecomunicaciones y Servicios Integrales"
+    },
+    {
+        "internalId": "04a6fc29-6cf0-487a-a1e5-09ecb56424fe",
+        "providerName": "Hot-Net internet services",
+        "asn": "12849",
+        "emails": ["abuse@hotnet.net.il"],
+        "newProviderName": "Hot Telecommunication Systems Ltd.",
+        "isNameChanged": true,
+        "finalName": "Hot Telecommunication Systems Ltd."
+    },
+    {
+        "internalId": "647acc33-17c1-40de-9a98-17378bf24a53",
+        "providerName": "Globetech",
+        "asn": "200037",
+        "emails": ["abuse@globetech.no"],
+        "newProviderName": "Globetech",
+        "isNameChanged": false,
+        "finalName": "Globetech"
+    },
+    {
+        "internalId": "3009ccb4-664d-4099-b586-300fac179cca",
+        "providerName": "Menaksopal Link Nusantara",
+        "asn": "139981",
+        "emails": [
+            "yosvensa@menaksopal.net.id",
+            "abuse@menaksopal.net.id"
+        ],
+        "newProviderName": "PT Menaksopal Link Nusantara",
+        "isNameChanged": false,
+        "finalName": "Menaksopal Link Nusantara"
+    },
+    {
+        "internalId": "cc0aceb2-a0cd-490b-b0a0-5e0796b9db2a",
+        "providerName": "The Professional Communications Pvt",
+        "asn": "136174",
+        "emails": [
+            "Abuse@nova.net.pk",
+            "Malik.sherali@gmail.com",
+            "malik.sherali@gmail.com",
+            "abuse@nova.net.pk"
+        ],
+        "newProviderName": "Nova Communications",
+        "isNameChanged": true,
+        "finalName": "Nova Communications"
+    }
+]
